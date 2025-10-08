@@ -23,6 +23,8 @@ This is **not a compiler** or a real execution engine—it's a **creative tool f
 
 ## **Sections & Commands**
 
+**Note:** check /docs/langs/ for more docs on language-ish commands.
+
 ### **1. Python-ish Commands**
 
 Dynamic, high-level, Python-inspired syntax.
