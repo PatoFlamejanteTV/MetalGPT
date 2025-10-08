@@ -21,6 +21,10 @@ This is **not a compiler** or a real execution engine—it's a **creative tool f
 
 ---
 
+## **Usage**
+
+_Copy [PROMPT.TXT's](https://github.com/PatoFlamejanteTV/MetalGPT/blob/main/PROMPT.txt) contents to ChatGPT and then send your code._
+
 ## **Sections & Commands**
 
 **Note:** check /docs/langs/ for more docs on language-ish commands.
